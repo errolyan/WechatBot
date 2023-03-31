@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/discord/1058994816446369832?label=Join%20Community&logo=discord&style=flat-square" alt="join discord community of github profile readme generator"/>
   </a>
 </p>
-
+blog(博客） : https://errol.blog.csdn.net/
 > Use ChatGPT On Wechat via wechaty  
 English | [中文文档](README_ZH.md)
 
